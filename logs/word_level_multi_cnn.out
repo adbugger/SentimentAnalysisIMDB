@@ -1,0 +1,53 @@
+Using TensorFlow backend.
+2017-11-26 23:40:15.244884: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-26 23:40:15.244974: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-26 23:40:15.245008: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-26 23:40:15.245022: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-26 23:40:15.245035: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-26 23:40:16.994232: I tensorflow/core/common_runtime/gpu/gpu_device.cc:955] Found device 0 with properties: 
+name: GeForce GTX 1080 Ti
+major: 6 minor: 1 memoryClockRate (GHz) 1.582
+pciBusID 0000:82:00.0
+Total memory: 10.91GiB
+Free memory: 10.75GiB
+2017-11-26 23:40:16.994310: I tensorflow/core/common_runtime/gpu/gpu_device.cc:976] DMA: 0 
+2017-11-26 23:40:16.994325: I tensorflow/core/common_runtime/gpu/gpu_device.cc:986] 0:   Y 
+2017-11-26 23:40:16.994339: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:82:00.0)
+Loading data...
+25000 train sequences
+25000 test sequences
+Pad sequences (samples x time)
+x_train shape: (25000, 400)
+x_test shape: (25000, 400)
+Building model
+Train on 25000 samples, validate on 25000 samples
+Epoch 1/15
+16s - loss: 3.7166 - acc: 0.6294 - val_loss: 0.6165 - val_acc: 0.7109
+Epoch 2/15
+9s - loss: 0.5917 - acc: 0.7231 - val_loss: 0.5666 - val_acc: 0.7364
+Epoch 3/15
+9s - loss: 0.5557 - acc: 0.7458 - val_loss: 0.5279 - val_acc: 0.7675
+Epoch 4/15
+10s - loss: 0.5271 - acc: 0.7672 - val_loss: 0.5234 - val_acc: 0.7711
+Epoch 5/15
+10s - loss: 0.5108 - acc: 0.7781 - val_loss: 0.4927 - val_acc: 0.7861
+Epoch 6/15
+10s - loss: 0.4967 - acc: 0.7900 - val_loss: 0.4878 - val_acc: 0.7954
+Epoch 7/15
+10s - loss: 0.4855 - acc: 0.7934 - val_loss: 0.4845 - val_acc: 0.8008
+Epoch 8/15
+10s - loss: 0.4769 - acc: 0.8030 - val_loss: 0.4686 - val_acc: 0.8060
+Epoch 9/15
+10s - loss: 0.4657 - acc: 0.8118 - val_loss: 0.4552 - val_acc: 0.8242
+Epoch 10/15
+10s - loss: 0.4566 - acc: 0.8176 - val_loss: 0.4468 - val_acc: 0.8252
+Epoch 11/15
+10s - loss: 0.4447 - acc: 0.8269 - val_loss: 0.4652 - val_acc: 0.8170
+Epoch 12/15
+10s - loss: 0.4375 - acc: 0.8325 - val_loss: 0.4304 - val_acc: 0.8369
+Epoch 13/15
+10s - loss: 0.4248 - acc: 0.8399 - val_loss: 0.4581 - val_acc: 0.8242
+Epoch 14/15
+10s - loss: 0.4206 - acc: 0.8453 - val_loss: 0.4242 - val_acc: 0.8435
+Epoch 15/15
+10s - loss: 0.4117 - acc: 0.8502 - val_loss: 0.4340 - val_acc: 0.8346

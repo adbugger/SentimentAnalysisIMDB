@@ -1,0 +1,4 @@
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 1000, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+2482
+train set done
+test set done

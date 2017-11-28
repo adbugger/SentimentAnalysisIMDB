@@ -1,0 +1,176 @@
+mixed_level_cnn01.out
+{'word_context': 15, 'word_embed_size': 30, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.53164
+
+mixed_level_cnn02.out
+{'word_context': 7, 'word_embed_size': 30, 'word_conv_units': 5, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.52170
+
+mixed_level_cnn03.out
+{'word_context': 9, 'word_embed_size': 30, 'word_conv_units': 5, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.52816
+
+mixed_level_cnn04.out
+{'word_context': 11, 'word_embed_size': 30, 'word_conv_units': 5, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.52218
+
+mixed_level_cnn05.out
+{'word_context': 15, 'word_embed_size': 15, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.53522
+
+mixed_level_cnn06.out
+{'word_context': 15, 'word_embed_size': 30, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.53130
+
+mixed_level_cnn07.out
+{'word_context': 15, 'word_embed_size': 60, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.54264
+
+mixed_level_cnn08.out
+{'word_context': 15, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.56446
+
+mixed_level_cnn13.out
+{'word_context': 15, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.55662
+
+mixed_level_cnn14.out
+{'word_context': 31, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.56296
+
+mixed_level_cnn15.out
+{'word_context': 51, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.54782
+
+mixed_level_cnn16.out
+{'word_context': 101, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.56234
+
+mixed_level_cnn17.out
+{'word_context': 15, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.54978
+
+mixed_level_cnn18.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.55178
+
+mixed_level_cnn19.out
+{'word_context': 51, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.56044
+
+mixed_level_cnn20.out
+{'word_context': 101, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.53844
+
+mixed_level_cnn21.out
+{'word_context': 15, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.54370
+
+mixed_level_cnn22.out
+{'word_context': 15, 'word_embed_size': 500, 'word_conv_units': 50, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.54326
+
+mixed_level_cnn23.out
+{'word_context': 15, 'word_embed_size': 500, 'word_conv_units': 500, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Finished training
+
+mixed_level_cnn24.out
+{'word_context': 15, 'word_embed_size': 500, 'word_conv_units': 1000, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+test set done
+
+mixed_level_cnn25.out
+{'word_context': 15, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.52272
+
+mixed_level_cnn26.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.57164
+
+mixed_level_cnn27.out
+{'word_context': 51, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.53948
+
+mixed_level_cnn28.out
+{'word_context': 101, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.54696
+
+mixed_level_cnn29.out
+{'word_context': 15, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.52674
+
+mixed_level_cnn30.out
+{'word_context': 31, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.54632
+
+mixed_level_cnn31.out
+{'word_context': 51, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.51224
+
+mixed_level_cnn32.out
+{'word_context': 101, 'word_embed_size': 500, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.53960
+
+mixed_level_cnn33.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.56196
+
+mixed_level_cnn34.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 100, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.55334
+
+mixed_level_cnn35.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 500, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.56402
+
+mixed_level_cnn36.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 1000, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+test set done
+
+mixed_level_cnn37.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.55974
+
+mixed_level_cnn38.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 50, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.57448
+
+mixed_level_cnn39.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 500, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.53322
+
+mixed_level_cnn40.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 1000, 'dropout': False, 'batch_size': 500}
+Accuracy on test: 0.56290
+
+mixed_level_cnn41.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.53372
+
+mixed_level_cnn42.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 100, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.59496
+
+mixed_level_cnn43.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 500, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.56208
+
+mixed_level_cnn44.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 1000, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+test set done
+
+mixed_level_cnn45.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 5, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.55600
+
+mixed_level_cnn46.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 50, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.55574
+
+mixed_level_cnn47.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 500, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.55826
+
+mixed_level_cnn48.out
+{'word_context': 31, 'word_embed_size': 200, 'word_conv_units': 10, 'hidden_units': 1000, 'dropout': True, 'batch_size': 500}
+Accuracy on test: 0.55638
+
